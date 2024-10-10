@@ -1,3 +1,3 @@
 # Infinite-Running-Game
 
-Obstacle General Avoidance Game
+Obstacle Generated Avoidance Game
